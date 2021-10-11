@@ -4,6 +4,6 @@
 
 ![Alexis's github stats](https://github-readme-stats.vercel.app/api?username=OmgImAlexis&count_private=true&show_icons=true&theme=nightowl)
 
-![](https://api.ghprofile.me/view?username=OmgImAlexis&color=purple)
+[![](https://api.ghprofile.me/view?username=OmgImAlexis&color=purple)](https://ghprofile.me/?username=OmgImAlexis)
 
 Twitter: [@OmgImAlexis](https://twitter.com/OmgImAlexis)
